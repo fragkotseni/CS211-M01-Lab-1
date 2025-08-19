@@ -67,7 +67,7 @@ while True:
     choice = int(input("Enter the item number you want to order: "))
 
      # Validate the choice 
-    if choice < 1 or choice > 4:
+    if choice < 1 or choice > 5:
         print("Invalid choice. Try again.")
         continue
 
