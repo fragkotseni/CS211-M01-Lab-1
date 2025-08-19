@@ -1,7 +1,7 @@
 """
-Project/File Name: ___________________________
-Author:           ___________________________
-Date Created:     ___________________________
+Project/File Name: Lab1
+Author:           Fragko Tseni
+Date Created:     08/13/2025
 Last Modified:    ___________________________
 
 Purpose:          [Brief description of what this file/project does]
